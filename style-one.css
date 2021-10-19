@@ -1,0 +1,22 @@
+.pinkhighlight {
+    color: pink;
+    font-size: 1.3em;
+    font-weight: bold;
+}
+
+#rightside {
+    float:right;
+    margin: 50px;
+}
+/*unvisited link */
+a:link {
+    color: pink;
+    Background-color: black;
+  }
+  /*visited link */
+  a:visited {
+    color: greenyellow;
+    background-color: black;
+    font-weight: bold;
+  }
+  

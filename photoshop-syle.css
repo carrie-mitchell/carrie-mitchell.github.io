@@ -1,0 +1,12 @@
+.mbs-gallery {
+    margin: 10px 50px;
+    float: center;
+}
+.mbs-gallery img {
+    transition: 1s;
+    padding: 15px;
+    width: 300px;
+}
+.mbs-gallery img:hover {
+    transform: scale(1.1);
+}
